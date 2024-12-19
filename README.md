@@ -1,4 +1,4 @@
-# Upload Image com Gemini para Geração de Descrição
+# API em Node para upload Image com integração com Gemini para Geração de Descrição
 
 Este projeto é um Backend desenvolvido em **Node.js** e permite o **upload de imagens** para um banco de dados **MongoDB**, além de integrar com a biblioteca **Gemini** para gerar descrições automáticas das imagens enviadas. O objetivo é fornecer uma solução completa que permita o armazenamento eficiente de imagens e a criação automática de descrições detalhadas para cada uma delas.
 
